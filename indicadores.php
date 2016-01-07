@@ -105,7 +105,8 @@ class Indicadores{
   private function getIU() {
 
   	$urls = [
-			2015   => "http://www.sii.cl/pagina/valores/segundacategoria/imp_2da_agosto2015.htm"
+  			2016 => "http://www.sii.cl/pagina/valores/segundacategoria/imp_2da_enero2016.htm"
+			, 2015 => "http://www.sii.cl/pagina/valores/segundacategoria/imp_2da_agosto2015.htm"
 			, 2014 => "http://www.sii.cl/pagina/valores/segundacategoria/imp_2da_diciembre2014.htm"
   	];
 
